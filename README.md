@@ -11,7 +11,7 @@ This lab is designed to introduce you to SaltStack, a versatile tool for managin
 - **Verify Salt Installation**: Confirm the SaltStack installation on your system, check minion connectivity, and identify the master server.
 
 - **Configure Minion for Local State Execution**: Set up the Salt Minion for local state execution. Create an initial `my_state.sls` file for base configuration.
-- 
+  
 - **Try some SaltStack states**: Experiment with SaltStack by adding and executing custom states.
 
 ## Important Note
